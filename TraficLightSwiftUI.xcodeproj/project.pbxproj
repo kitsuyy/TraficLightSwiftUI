@@ -11,6 +11,7 @@
 		0A5C7DF62944DAE900D0403E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5C7DF52944DAE900D0403E /* ContentView.swift */; };
 		0A5C7DF82944DAEA00D0403E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A5C7DF72944DAEA00D0403E /* Assets.xcassets */; };
 		0A5C7DFB2944DAEA00D0403E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A5C7DFA2944DAEA00D0403E /* Preview Assets.xcassets */; };
+		0A5C7E062944EDC700D0403E /* ColorCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5C7E052944EDC700D0403E /* ColorCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0A5C7DF52944DAE900D0403E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0A5C7DF72944DAEA00D0403E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A5C7DFA2944DAEA00D0403E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0A5C7E052944EDC700D0403E /* ColorCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0A5C7DF32944DAE900D0403E /* TraficLightSwiftUIApp.swift */,
 				0A5C7DF52944DAE900D0403E /* ContentView.swift */,
+				0A5C7E052944EDC700D0403E /* ColorCircleView.swift */,
 				0A5C7DF72944DAEA00D0403E /* Assets.xcassets */,
 				0A5C7DF92944DAEA00D0403E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A5C7E062944EDC700D0403E /* ColorCircleView.swift in Sources */,
 				0A5C7DF62944DAE900D0403E /* ContentView.swift in Sources */,
 				0A5C7DF42944DAE900D0403E /* TraficLightSwiftUIApp.swift in Sources */,
 			);
